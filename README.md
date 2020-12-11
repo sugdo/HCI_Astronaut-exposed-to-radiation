@@ -51,6 +51,9 @@ Open the project file found in the 'iOS' directory within the sample
 ### Visual Studio
 
 Open the solution file found in the 'UWP directory within the sample
+
+
+So let's Go HCI 
+
 # HCI_Astronaut-exposed-to-radiation
-# HCI_Astronaut-exposed-to-radiation
-# HCI_Astronaut-exposed-to-radiation
+
